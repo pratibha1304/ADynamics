@@ -1,10 +1,15 @@
 # ADynamics
 ADynamics
- ~ Dynamic Personalised Advertisments
+ ~ Dynamic Personalised Advertisements
+ 
  TEAM  MEMBERS
+ 
  SOMYA UPADHYAY
+ 
  PRATIBHA SONI
- KETAN TIWAR
+ 
+ KETAN TIWARI
+ 
  VISHESH SHARMA 
 
  
@@ -27,53 +32,67 @@ Our model- Dynamic Personalised Advertisement
  better with audiences.
  
 HOW IT WORKS
+
 1.Data Collection:
  Cameras and Sensors: Either the billboards themselves, or sensors/cameras placed near those billboards, record
  the image and take videos of people.
  Environmental Context: This would be in data relating to time, weather, and location from sensors that help
  facilitate perfect ad personalization.
+ 
 2.Cameras and Sensors: 
  Cameras integrated into digital billboards or installed around a display for advertisements capture pictures and
  record videos of people passing by.
  Environmental Context: The contextual information can be gathered by sensors, such as time of the day,
  weather, and place, to make the ad more personalized.
+ 
 3.Image Analysis: 
  Sophisticated algorithms extract facial features and identify age, gender, and ethnicity to ensure
  that ad content 
  relevant.
+ 
 4.Emotion Recognition: 
  Audiences' facial expressions are detected to determine whether they are happy or interested, and
  ads are chosen based on this information.
+ 
 5.Content Adaptation and Real-Time Adjustment: 
  The ads adjust themselves dynamicaly based on demographic and emotional analysis, such as showing hip
  gadgets to young adults or warm beverages on a cold day.
+ 
 6.Data Anonymization: 
  Data anonymization uses anonymized personal data to create aggregate demographic and emotional information.
  Consent management requires clear consent mechanisms, data colection information, and opt-out options for ethica
  personal data use.
  
 Use Cases
+
  1 . Retail Stores:
        In-store Displays
        Window Displays
+       
  2. Transportation Hubs:
        Billboards near Airports and Train Stations 
        Public Transit Screens
+    
  3.Event Venue
        Stadiums and Concert Halls
        Trade Shows and Conferences
+       
  4.Urban Centers:
        Digital Billboards
        Smart City Initiatives
        
 Advantages of our model
+
  Increased Engagement: 
          As the chances of personalized ads capturing attention and resonating with viewers are
          more, so they would receive higher engagement.
+         
  Improved ROI: 
          With better returns on investment, conversion rates can be improved through more
          effective ad targeting, and the advertising budget is better utilized.
+         
  Better User Experience: 
           Relevant and interesting ads are shown to the user, thereby enhancing their experience
           across public advertising spaces.
+          
 THANK YOU!
