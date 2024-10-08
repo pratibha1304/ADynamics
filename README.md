@@ -6,21 +6,26 @@ ADynamics
  PRATIBHA SONI
  KETAN TIWAR
  VISHESH SHARMA 
+
+ 
 Problem Statement :
-nTraditional static billboards in out-of-home spots tend not to engage people with relevant
+ Traditional static billboards in out-of-home spots tend not to engage people with relevant
  content because they do not change based on demographic data or emotional states.
  This may sometimes mean lost opportunities for brands seeking to connect with their
  prospect customers, hence less impact and efficiency of the advertising campaign.
+
 Solution:
  A dynamic ad system using image prediction and computer vision can watch the
  demographics and sentiment of people walk in digital billboards or other advertising
  displays. The system would also be able to adapt content on the fly, ensuring that the
  audience receives more personalized and relevant advertising.
+ 
 Our model- Dynamic Personalised Advertisement 
  The new dynamic ad system, being able to predict images and work with computer vision, can infer the data
  about demographics and sentiments of individuals walking by digital billboards or any other display. By
  changing the content in real-time, this will be able to give out very personalized and relevant ads that will work
  better with audiences.
+ 
 HOW IT WORKS
 1.Data Collection:
  Cameras and Sensors: Either the billboards themselves, or sensors/cameras placed near those billboards, record
@@ -46,6 +51,7 @@ HOW IT WORKS
  Data anonymization uses anonymized personal data to create aggregate demographic and emotional information.
  Consent management requires clear consent mechanisms, data colection information, and opt-out options for ethica
  personal data use.
+ 
 Use Cases
  1 . Retail Stores:
        In-store Displays
@@ -59,6 +65,7 @@ Use Cases
  4.Urban Centers:
        Digital Billboards
        Smart City Initiatives
+       
 Advantages of our model
  Increased Engagement: 
          As the chances of personalized ads capturing attention and resonating with viewers are
