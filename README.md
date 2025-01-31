@@ -96,5 +96,7 @@ Advantages of our model
  Better User Experience: 
           Relevant and interesting ads are shown to the user, thereby enhancing their experience
           across public advertising spaces.
-          
+
+Here's our code and video link:
+https://drive.google.com/file/d/1Mdvm4nenhHhE_SkpyeEOB3mTV_SX2dco/view?usp=drive_link
 THANK YOU!
