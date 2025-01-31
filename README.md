@@ -12,6 +12,8 @@ ADynamics
  
  VISHESH SHARMA 
 
+ VARUN TYAGI
+
  
 Problem Statement :
  Traditional static billboards in out-of-home spots tend not to engage people with relevant
